@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Elroy  
 
-<!--
-**ElroyAmangabara/ElroyAmangabara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Web Developer passionate about building engaging digital experiences.  
+💻 Currently focused on frontend development and expanding into full-stack.  
+🎮 Also curious about mobile development and game design.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools & Version Control:** Git, GitHub  
+- **Exploring:** React, Python, Unity  
+
+---
+
+### 📚 About Me  
+- 🎯 Goal: Grow as a developer and contribute to creative tech projects.  
+- ✨ Interests: Web development, anime & gaming platforms, interactive applications.  
+- 🌍 Open to collaboration and learning opportunities.  
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](linkedin.com/in/elroy-amangabara-334b98322) 
+- [Email](mailto:amangabaraelroy31@gmail)
