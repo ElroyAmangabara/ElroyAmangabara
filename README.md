@@ -22,4 +22,4 @@
 
 ### 📫 Connect with Me  
 - [LinkedIn](linkedin.com/in/elroy-amangabara-334b98322) 
-- [Email](mailto:amangabaraelroy31@gmail)
+- [Email](mailto:elrolasdv@gmail.com)
